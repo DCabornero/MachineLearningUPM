@@ -1,0 +1,101 @@
+Season,Age,ChildDesease,AccidentTrauma,Surgery,Fevers,Alcohol,Smoking,HoursSitting,Diagnosis
+Spring,from 30 to 33,No,Yes,Yes,More than 3 months,Once a week,Ocassional,more than 15h,Normal
+Spring,from 33 to 36,Yes,No,Yes,More than 3 months,Once a week,Daily,from 5h to 9h,Altered
+Spring,from 27 to 30,Yes,No,No,More than 3 months,Hardly ever or never,Never,from 10h to 14h,Normal
+Spring,from 30 to 33,No,Yes,Yes,More than 3 months,Hardly ever or never,Never,from 5h to 9h,Normal
+Spring,from 30 to 33,Yes,Yes,No,More than 3 months,Once a week,Never,from 10h to 14h,Altered
+Spring,from 30 to 33,Yes,No,Yes,More than 3 months,Once a week,Ocassional,from 10h to 14h,Normal
+Spring,from 30 to 33,No,No,No,Less than 3 months,Once a week,Never,from 10h to 14h,Normal
+Spring,from 33 to 36,Yes,Yes,Yes,More than 3 months,Several times a week,Never,from 5h to 9h,Normal
+Autumn,from 27 to 30,No,No,Yes,More than 3 months,Once a week,Never,from 5h to 9h,Normal
+Autumn,from 27 to 30,Yes,No,No,More than 3 months,Hardly ever or never,Never,from 5h to 9h,Normal
+Autumn,from 30 to 33,Yes,Yes,No,Less than 3 months,Once a week,Ocassional,from 5h to 9h,Normal
+Autumn,from 30 to 33,Yes,Yes,Yes,More than 3 months,Several times a week,Ocassional,from 0h to 4h,Normal
+Autumn,from 30 to 33,Yes,Yes,Yes,More than 3 months,Once a week,Daily,from 5h to 9h,Normal
+Autumn,from 30 to 33,Yes,No,No,More than 3 months,Hardly ever or never,Never,from 5h to 9h,Normal
+Autumn,from 33 to 36,Yes,Yes,Yes,More than 3 months,Several times a day,Never,from 5h to 9h,Normal
+Autumn,from 30 to 33,Yes,Yes,No,More than 3 months,Hardly ever or never,Daily,from 10h to 14h,Normal
+Autumn,from 27 to 30,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,from 5h to 9h,Normal
+Autumn,from 30 to 33,Yes,No,Yes,More than 3 months,Once a week,Never,from 5h to 9h,Altered
+Autumn,from 30 to 33,Yes,Yes,Yes,More than 3 months,Hardly ever or never,Daily,from 5h to 9h,Normal
+Autumn,from 30 to 33,Yes,No,No,More than 3 months,Once a week,Daily,from 5h to 9h,Altered
+Autumn,from 30 to 33,No,No,Yes,More than 3 months,Once a week,Never,from 5h to 9h,Normal
+Autumn,from 30 to 33,Yes,No,No,More than 3 months,Several times a week,Ocassional,from 5h to 9h,Normal
+Autumn,from 30 to 33,Yes,Yes,No,More than 3 months,Once a week,Never,from 5h to 9h,Normal
+Autumn,from 30 to 33,Yes,No,Yes,Less than 3 months,Hardly ever or never,Never,from 10h to 14h,Altered
+Autumn,from 27 to 30,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,more than 15h,Normal
+Autumn,from 30 to 33,Yes,No,No,More than 3 months,Hardly ever or never,Never,from 5h to 9h,Normal
+Autumn,from 30 to 33,Yes,No,Yes,More than 3 months,Several times a week,Never,from 5h to 9h,Altered
+Autumn,from 30 to 33,Yes,Yes,No,No / More than 1 year,Several times a week,Never,from 5h to 9h,Altered
+Autumn,from 27 to 30,No,No,Yes,More than 3 months,Hardly ever or never,Never,from 0h to 4h,Normal
+Autumn,from 30 to 33,No,No,Yes,More than 3 months,Several times a week,Ocassional,from 10h to 14h,Altered
+Autumn,from 27 to 30,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,more than 15h,Normal
+Autumn,from 27 to 30,Yes,No,No,More than 3 months,Hardly ever or never,Never,from 10h to 14h,Normal
+Autumn,from 27 to 30,No,No,No,More than 3 months,Hardly ever or never,Never,more than 15h,Normal
+Autumn,from 27 to 30,Yes,Yes,Yes,More than 3 months,Once a week,Ocassional,from 10h to 14h,Normal
+Autumn,from 27 to 30,Yes,Yes,Yes,More than 3 months,Hardly ever or never,Never,more than 15h,Normal
+Winter,from 30 to 33,Yes,Yes,No,No / More than 1 year,Several times a week,Never,from 5h to 9h,Normal
+Winter,from 30 to 33,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,from 5h to 9h,Normal
+Winter,from 27 to 30,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,more than 15h,Normal
+Winter,from 30 to 33,No,No,Yes,More than 3 months,Several times a week,Ocassional,from 10h to 14h,Altered
+Winter,from 30 to 33,Yes,No,No,More than 3 months,Hardly ever or never,Never,from 5h to 9h,Normal
+Winter,from 27 to 30,Yes,Yes,Yes,More than 3 months,Once a week,Daily,from 10h to 14h,Normal
+Winter,from 27 to 30,Yes,Yes,No,More than 3 months,Once a week,Daily,from 10h to 14h,Normal
+Winter,from 27 to 30,Yes,No,Yes,Less than 3 months,Once a week,Daily,from 10h to 14h,Normal
+Winter,from 27 to 30,Yes,No,No,More than 3 months,Hardly ever or never,Never,from 10h to 14h,Normal
+Winter,from 27 to 30,Yes,Yes,No,No / More than 1 year,Hardly ever or never,Ocassional,from 5h to 9h,Normal
+Winter,from 27 to 30,Yes,No,No,No / More than 1 year,Hardly ever or never,Ocassional,from 10h to 14h,Normal
+Spring,from 27 to 30,Yes,No,No,More than 3 months,Hardly ever or never,Never,more than 15h,Normal
+Spring,from 30 to 33,Yes,Yes,No,More than 3 months,Several times a week,Daily,from 0h to 4h,Normal
+Spring,from 27 to 30,Yes,Yes,Yes,More than 3 months,Once a week,Never,from 5h to 9h,Normal
+Spring,from 30 to 33,Yes,Yes,Yes,More than 3 months,Several times a week,Never,from 0h to 4h,Normal
+Spring,from 30 to 33,Yes,No,Yes,More than 3 months,Once a week,Never,from 0h to 4h,Normal
+Spring,from 27 to 30,Yes,Yes,No,No / More than 1 year,Hardly ever or never,Never,more than 15h,Normal
+Spring,from 27 to 30,Yes,Yes,No,More than 3 months,Once a week,Ocassional,from 10h to 14h,Normal
+Spring,from 27 to 30,Yes,Yes,Yes,Less than 3 months,Once a week,Ocassional,from 0h to 4h,Normal
+Spring,from 27 to 30,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,more than 15h,Normal
+Spring,from 27 to 30,Yes,No,Yes,More than 3 months,Once a week,Daily,from 0h to 4h,Normal
+Spring,from 27 to 30,Yes,Yes,No,More than 3 months,Once a week,Ocassional,more than 15h,Normal
+Spring,from 30 to 33,Yes,Yes,Yes,Less than 3 months,Hardly ever or never,Never,more than 15h,Normal
+Spring,from 27 to 30,Yes,Yes,No,More than 3 months,Every day,Daily,more than 15h,Normal
+Autumn,from 27 to 30,No,No,No,No / More than 1 year,Once a week,Daily,from 10h to 14h,Normal
+Autumn,from 27 to 30,No,No,No,No / More than 1 year,Once a week,Ocassional,more than 15h,Normal
+Winter,from 27 to 30,Yes,No,No,No / More than 1 year,Hardly ever or never,Daily,from 5h to 9h,Normal
+Winter,from 27 to 30,Yes,Yes,Yes,More than 3 months,Several times a week,Never,from 5h to 9h,Normal
+Winter,from 27 to 30,Yes,No,No,No / More than 1 year,Hardly ever or never,Never,from 10h to 14h,Normal
+Winter,from 27 to 30,Yes,No,No,No / More than 1 year,Once a week,Never,from 5h to 9h,Normal
+Spring,from 27 to 30,No,No,Yes,More than 3 months,Hardly ever or never,Never,from 10h to 14h,Normal
+Spring,from 27 to 30,Yes,Yes,No,Less than 3 months,Once a week,Ocassional,more than 15h,Normal
+Spring,from 27 to 30,Yes,No,No,No / More than 1 year,Hardly ever or never,Never,from 10h to 14h,Normal
+Spring,from 27 to 30,Yes,No,No,No / More than 1 year,Once a week,Ocassional,from 5h to 9h,Normal
+Spring,from 27 to 30,Yes,No,Yes,Less than 3 months,Once a week,Never,from 10h to 14h,Normal
+Spring,from 27 to 30,Yes,Yes,No,Less than 3 months,Once a week,Ocassional,more than 15h,Altered
+Summer,from 30 to 33,Yes,No,No,No / More than 1 year,Hardly ever or never,Never,from 5h to 9h,Normal
+Autumn,from 27 to 30,Yes,No,No,No / More than 1 year,Several times a week,Ocassional,from 10h to 14h,Normal
+Winter,from 27 to 30,Yes,No,No,No / More than 1 year,Once a week,Never,from 10h to 14h,Normal
+Winter,from 27 to 30,Yes,No,No,No / More than 1 year,Once a week,Never,more than 15h,Normal
+Winter,from 30 to 33,Yes,No,Yes,No / More than 1 year,Hardly ever or never,Daily,from 5h to 9h,Normal
+Winter,from 30 to 33,Yes,No,Yes,No / More than 1 year,Several times a week,Ocassional,from 10h to 14h,Normal
+Winter,from 30 to 33,Yes,Yes,Yes,No / More than 1 year,Once a week,Never,from 0h to 4h,Normal
+Winter,from 27 to 30,Yes,Yes,No,No / More than 1 year,Once a week,Never,from 5h to 9h,Normal
+Winter,from 33 to 36,Yes,No,Yes,No / More than 1 year,Several times a week,Ocassional,from 5h to 9h,Normal
+Spring,from 33 to 36,Yes,Yes,No,No / More than 1 year,Hardly ever or never,Never,more than 15h,Normal
+Winter,from 30 to 33,Yes,Yes,Yes,No / More than 1 year,Once a week,Ocassional,from 0h to 4h,Normal
+Spring,from 33 to 36,Yes,No,No,No / More than 1 year,Several times a week,Never,from 0h to 4h,Normal
+Spring,from 33 to 36,Yes,Yes,Yes,No / More than 1 year,Hardly ever or never,Never,from 5h to 9h,Normal
+Spring,from 30 to 33,Yes,No,No,No / More than 1 year,Hardly ever or never,Daily,from 0h to 4h,Altered
+Spring,from 33 to 36,Yes,Yes,No,More than 3 months,Several times a week,Daily,from 5h to 9h,Normal
+Spring,from 30 to 33,Yes,Yes,Yes,More than 3 months,Several times a week,Daily,from 5h to 9h,Normal
+Spring,from 30 to 33,Yes,Yes,Yes,No / More than 1 year,Once a week,Daily,from 5h to 9h,Normal
+Spring,from 30 to 33,Yes,Yes,Yes,More than 3 months,Hardly ever or never,Never,from 5h to 9h,Normal
+Spring,from 30 to 33,Yes,Yes,Yes,More than 3 months,Hardly ever or never,Daily,from 5h to 9h,Normal
+Spring,from 30 to 33,Yes,Yes,Yes,No / More than 1 year,Once a week,Never,from 5h to 9h,Normal
+Summer,from 30 to 33,Yes,No,No,More than 3 months,Hardly ever or never,Daily,from 0h to 4h,Normal
+Summer,from 30 to 33,Yes,Yes,No,More than 3 months,Once a week,Never,from 5h to 9h,Normal
+Summer,from 30 to 33,Yes,No,Yes,More than 3 months,Once a week,Never,from 10h to 14h,Altered
+Autumn,from 27 to 30,Yes,No,No,More than 3 months,Several times a week,Daily,from 10h to 14h,Normal
+Winter,from 30 to 33,Yes,No,No,More than 3 months,Hardly ever or never,Never,from 10h to 14h,Normal
+Winter,from 27 to 30,Yes,No,No,More than 3 months,Once a week,Ocassional,from 10h to 14h,Normal
+Winter,from 30 to 33,Yes,Yes,Yes,More than 3 months,Hardly ever or never,Never,from 5h to 9h,Normal
+Winter,from 27 to 30,Yes,No,Yes,More than 3 months,Hardly ever or never,Ocassional,from 0h to 4h,Normal
+Winter,from 30 to 33,No,Yes,Yes,More than 3 months,Several times a week,Never,from 0h to 4h,Normal

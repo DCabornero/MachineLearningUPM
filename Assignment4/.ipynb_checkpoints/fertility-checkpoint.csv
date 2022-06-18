@@ -1,0 +1,101 @@
+Season,Age,ChildDesease,AccidentTrauma,Surgery,Fevers,Alcohol,Smoking,HoursSitting,Diagnosis
+Spring,30-36,No,Yes,Yes,More than 3 months,Once a week,Ocassional,15+,Normal
+Spring,30-36,Yes,No,Yes,More than 3 months,Once a week,Daily,5-9,Altered
+Spring,24-29,Yes,No,No,More than 3 months,Hardly ever or never,Never,10-14,Normal
+Spring,30-36,No,Yes,Yes,More than 3 months,Hardly ever or never,Never,5-9,Normal
+Spring,30-36,Yes,Yes,No,More than 3 months,Once a week,Never,10-14,Altered
+Spring,30-36,Yes,No,Yes,More than 3 months,Once a week,Ocassional,10-14,Normal
+Spring,30-36,No,No,No,Less than 3 months,Once a week,Never,10-14,Normal
+Spring,30-36,Yes,Yes,Yes,More than 3 months,Several times a week,Never,5-9,Normal
+Autumn,24-29,No,No,Yes,More than 3 months,Once a week,Never,5-9,Normal
+Autumn,24-29,Yes,No,No,More than 3 months,Hardly ever or never,Never,5-9,Normal
+Autumn,30-36,Yes,Yes,No,Less than 3 months,Once a week,Ocassional,5-9,Normal
+Autumn,30-36,Yes,Yes,Yes,More than 3 months,Several times a week,Ocassional,0-4,Normal
+Autumn,30-36,Yes,Yes,Yes,More than 3 months,Once a week,Daily,5-9,Normal
+Autumn,30-36,Yes,No,No,More than 3 months,Hardly ever or never,Never,5-9,Normal
+Autumn,30-36,Yes,Yes,Yes,More than 3 months,Several times a day,Never,5-9,Normal
+Autumn,30-36,Yes,Yes,No,More than 3 months,Hardly ever or never,Daily,10-14,Normal
+Autumn,24-29,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,5-9,Normal
+Autumn,30-36,Yes,No,Yes,More than 3 months,Once a week,Never,5-9,Altered
+Autumn,30-36,Yes,Yes,Yes,More than 3 months,Hardly ever or never,Daily,5-9,Normal
+Autumn,30-36,Yes,No,No,More than 3 months,Once a week,Daily,5-9,Altered
+Autumn,30-36,No,No,Yes,More than 3 months,Once a week,Never,5-9,Normal
+Autumn,30-36,Yes,No,No,More than 3 months,Several times a week,Ocassional,5-9,Normal
+Autumn,30-36,Yes,Yes,No,More than 3 months,Once a week,Never,5-9,Normal
+Autumn,30-36,Yes,No,Yes,Less than 3 months,Hardly ever or never,Never,10-14,Altered
+Autumn,24-29,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,15+,Normal
+Autumn,30-36,Yes,No,No,More than 3 months,Hardly ever or never,Never,5-9,Normal
+Autumn,30-36,Yes,No,Yes,More than 3 months,Several times a week,Never,5-9,Altered
+Autumn,30-36,Yes,Yes,No,No / More than 1 year,Several times a week,Never,5-9,Altered
+Autumn,24-29,No,No,Yes,More than 3 months,Hardly ever or never,Never,0-4,Normal
+Autumn,30-36,No,No,Yes,More than 3 months,Several times a week,Ocassional,10-14,Altered
+Autumn,24-29,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,15+,Normal
+Autumn,24-29,Yes,No,No,More than 3 months,Hardly ever or never,Never,10-14,Normal
+Autumn,24-29,No,No,No,More than 3 months,Hardly ever or never,Never,15+,Normal
+Autumn,24-29,Yes,Yes,Yes,More than 3 months,Once a week,Ocassional,10-14,Normal
+Autumn,24-29,Yes,Yes,Yes,More than 3 months,Hardly ever or never,Never,15+,Normal
+Winter,30-36,Yes,Yes,No,No / More than 1 year,Several times a week,Never,5-9,Normal
+Winter,30-36,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,5-9,Normal
+Winter,24-29,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,15+,Normal
+Winter,30-36,No,No,Yes,More than 3 months,Several times a week,Ocassional,10-14,Altered
+Winter,30-36,Yes,No,No,More than 3 months,Hardly ever or never,Never,5-9,Normal
+Winter,24-29,Yes,Yes,Yes,More than 3 months,Once a week,Daily,10-14,Normal
+Winter,24-29,Yes,Yes,No,More than 3 months,Once a week,Daily,10-14,Normal
+Winter,24-29,Yes,No,Yes,Less than 3 months,Once a week,Daily,10-14,Normal
+Winter,24-29,Yes,No,No,More than 3 months,Hardly ever or never,Never,10-14,Normal
+Winter,24-29,Yes,Yes,No,No / More than 1 year,Hardly ever or never,Ocassional,5-9,Normal
+Winter,24-29,Yes,No,No,No / More than 1 year,Hardly ever or never,Ocassional,10-14,Normal
+Spring,24-29,Yes,No,No,More than 3 months,Hardly ever or never,Never,15+,Normal
+Spring,30-36,Yes,Yes,No,More than 3 months,Several times a week,Daily,0-4,Normal
+Spring,24-29,Yes,Yes,Yes,More than 3 months,Once a week,Never,5-9,Normal
+Spring,30-36,Yes,Yes,Yes,More than 3 months,Several times a week,Never,0-4,Normal
+Spring,30-36,Yes,No,Yes,More than 3 months,Once a week,Never,0-4,Normal
+Spring,24-29,Yes,Yes,No,No / More than 1 year,Hardly ever or never,Never,15+,Normal
+Spring,24-29,Yes,Yes,No,More than 3 months,Once a week,Ocassional,10-14,Normal
+Spring,24-29,Yes,Yes,Yes,Less than 3 months,Once a week,Ocassional,0-4,Normal
+Spring,24-29,Yes,No,Yes,More than 3 months,Hardly ever or never,Never,15+,Normal
+Spring,24-29,Yes,No,Yes,More than 3 months,Once a week,Daily,0-4,Normal
+Spring,24-29,Yes,Yes,No,More than 3 months,Once a week,Ocassional,15+,Normal
+Spring,30-36,Yes,Yes,Yes,Less than 3 months,Hardly ever or never,Never,15+,Normal
+Spring,24-29,Yes,Yes,No,More than 3 months,Every day,Daily,15+,Normal
+Autumn,24-29,No,No,No,No / More than 1 year,Once a week,Daily,10-14,Normal
+Autumn,24-29,No,No,No,No / More than 1 year,Once a week,Ocassional,15+,Normal
+Winter,24-29,Yes,No,No,No / More than 1 year,Hardly ever or never,Daily,5-9,Normal
+Winter,24-29,Yes,Yes,Yes,More than 3 months,Several times a week,Never,5-9,Normal
+Winter,24-29,Yes,No,No,No / More than 1 year,Hardly ever or never,Never,10-14,Normal
+Winter,24-29,Yes,No,No,No / More than 1 year,Once a week,Never,5-9,Normal
+Spring,24-29,No,No,Yes,More than 3 months,Hardly ever or never,Never,10-14,Normal
+Spring,24-29,Yes,Yes,No,Less than 3 months,Once a week,Ocassional,15+,Normal
+Spring,24-29,Yes,No,No,No / More than 1 year,Hardly ever or never,Never,10-14,Normal
+Spring,24-29,Yes,No,No,No / More than 1 year,Once a week,Ocassional,5-9,Normal
+Spring,24-29,Yes,No,Yes,Less than 3 months,Once a week,Never,10-14,Normal
+Spring,24-29,Yes,Yes,No,Less than 3 months,Once a week,Ocassional,15+,Altered
+Summer,30-36,Yes,No,No,No / More than 1 year,Hardly ever or never,Never,5-9,Normal
+Autumn,24-29,Yes,No,No,No / More than 1 year,Several times a week,Ocassional,10-14,Normal
+Winter,24-29,Yes,No,No,No / More than 1 year,Once a week,Never,10-14,Normal
+Winter,24-29,Yes,No,No,No / More than 1 year,Once a week,Never,15+,Normal
+Winter,30-36,Yes,No,Yes,No / More than 1 year,Hardly ever or never,Daily,5-9,Normal
+Winter,30-36,Yes,No,Yes,No / More than 1 year,Several times a week,Ocassional,10-14,Normal
+Winter,30-36,Yes,Yes,Yes,No / More than 1 year,Once a week,Never,0-4,Normal
+Winter,24-29,Yes,Yes,No,No / More than 1 year,Once a week,Never,5-9,Normal
+Winter,30-36,Yes,No,Yes,No / More than 1 year,Several times a week,Ocassional,5-9,Normal
+Spring,30-36,Yes,Yes,No,No / More than 1 year,Hardly ever or never,Never,15+,Normal
+Winter,30-36,Yes,Yes,Yes,No / More than 1 year,Once a week,Ocassional,0-4,Normal
+Spring,30-36,Yes,No,No,No / More than 1 year,Several times a week,Never,0-4,Normal
+Spring,30-36,Yes,Yes,Yes,No / More than 1 year,Hardly ever or never,Never,5-9,Normal
+Spring,30-36,Yes,No,No,No / More than 1 year,Hardly ever or never,Daily,0-4,Altered
+Spring,30-36,Yes,Yes,No,More than 3 months,Several times a week,Daily,5-9,Normal
+Spring,30-36,Yes,Yes,Yes,More than 3 months,Several times a week,Daily,5-9,Normal
+Spring,30-36,Yes,Yes,Yes,No / More than 1 year,Once a week,Daily,5-9,Normal
+Spring,30-36,Yes,Yes,Yes,More than 3 months,Hardly ever or never,Never,5-9,Normal
+Spring,30-36,Yes,Yes,Yes,More than 3 months,Hardly ever or never,Daily,5-9,Normal
+Spring,30-36,Yes,Yes,Yes,No / More than 1 year,Once a week,Never,5-9,Normal
+Summer,30-36,Yes,No,No,More than 3 months,Hardly ever or never,Daily,0-4,Normal
+Summer,30-36,Yes,Yes,No,More than 3 months,Once a week,Never,5-9,Normal
+Summer,30-36,Yes,No,Yes,More than 3 months,Once a week,Never,10-14,Altered
+Autumn,24-29,Yes,No,No,More than 3 months,Several times a week,Daily,10-14,Normal
+Winter,30-36,Yes,No,No,More than 3 months,Hardly ever or never,Never,10-14,Normal
+Winter,24-29,Yes,No,No,More than 3 months,Once a week,Ocassional,10-14,Normal
+Winter,30-36,Yes,Yes,Yes,More than 3 months,Hardly ever or never,Never,5-9,Normal
+Winter,24-29,Yes,No,Yes,More than 3 months,Hardly ever or never,Ocassional,0-4,Normal
+Winter,30-36,No,Yes,Yes,More than 3 months,Several times a week,Never,0-4,Normal

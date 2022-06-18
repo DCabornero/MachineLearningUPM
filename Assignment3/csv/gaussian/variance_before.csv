@@ -1,0 +1,5 @@
+,Administrative_Duration,Informational_Duration,ProductRelated_Duration,ExitRates,PageValues,SpecialDay,Month=Feb,Month=Mar,Month=May,Month=Oct,Month=June,Month=Jul,Month=Aug,Month=Nov,Month=Sep,Month=Dec,VisitorType=Returning_Visitor,VisitorType=Other,Weekend
+0,0.98,0.89,0.95,0.98,0.85,1.16,0.0,1.18,1.13,1.22,1.23,0.0,1.23,1.14,1.23,0.0,0.92,0.0,1.02
+1,1.09,1.46,1.31,0.97,2.07,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.08,0.0,0.13,1.48,6.73,0.93
+2,1.45,2.04,1.22,0.93,0.35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.89,0.0,1.02
+3,0.25,0.01,0.19,2.01,0.09,2.46,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.72
